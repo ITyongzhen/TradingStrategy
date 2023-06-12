@@ -18,7 +18,12 @@ eagle策略说明：
 自主调节胜率版本的核心思想是通过调节胜率因子来平衡盈亏比和胜率。这个策略的目的是适应不同人的心态差异。有些人更注重高胜率，而有些人则更看重盈亏比。单笔止盈百分比是指提前平仓的比例。这样做的好处是如果无法达到止盈点位，损失会较小。相反，如果达到止盈点位却提前平仓，盈利也会减少。
 回测如下 
 
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG565.jpeg?raw=true)
+
+
 - [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/) 该版本的主要特点是追求长期稳定性。与自主调节胜率版本不同的是，该版本最多只能进行一次提前平仓。将该参数设置为0，则不进行提前平仓，仅进行一次平仓操作。
+
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG564.jpeg?raw=true)
 
 - [V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/) V2版本和V3版本具有完全相同的参数，因此将这两个策略合并为一个，通过开关控制。
 	- 参数说明：
@@ -26,10 +31,12 @@ eagle策略说明：
 仓位管理系数：这是影响每次交易仓位的关键因素之一。建议将其设为0.6以下。简单来说，值越大，当市场震荡较久时，磨损也越多，但行情好时赚取的利润也会更多。
 		- 策略开始日期：最好将其设置为实际交易开始的日期。由于开仓点位参考了历史盈亏，因此将该参数设置为开始实际交易的那天，相当于从那天起进行第一笔交易。
 
-![image](https://github.com/ITyongzhen/image_eagle/blob/main/%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.jpg?raw=true)
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG563.jpeg?raw=true)
+
 
 - 所有策略的仓位管理都是基于参考止损金额来确定的。该参数是理论上的单次止损金额，实际上可能会大于或小于该值，因此更像是一个参考值。
-
+- 
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.jpg?raw=true)
 - 使用说明：这些策略与您的本金无关。我的理念是每个人的本金和风险承受能力不同。举个例子，某人的本金为1WU，但亏损1000U就无法承受；而另一个人的本金为3000U，可以承受亏损2000U。因此，仓位和本金应该无关。我通过止损来控制仓位。
 
 - 具体而言，通过调整参数参考止损金额、仓位管理系数和止盈百分比进行回测。一般建议回测时间为一到两年。然后观察最大回撤值。我推荐采取保守的做法。比如，如果您能够承受最多1000U的亏损，您可以通过调整参数，使得最近两年的最大回撤不超过500U，这样相对来说比较适合。需要注意的是，这仅仅是一种相对保守的建议，并且行情是无法预测的，过去的数据并不能代表未来。
