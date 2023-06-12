@@ -61,14 +61,21 @@
 - 如果自己本金太小。也想使用，可通过跟单模式
 - 币安的[traderwagon](https://www.traderwagon.com/zh-CN/register?ref=zogys9x )  ,在里面搜索eagle就可以看到了
 
-- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)
-
--  [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
 - ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)
 
- - 币圈有风险，投资需谨慎。
- - 币圈有风险，投资需谨慎。
- - 币圈有风险，投资需谨慎。
- - 币圈有风险，投资需谨慎。
+-  [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
 
+
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)
+
+
+  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ - 币圈有风险，投资需谨慎。
+ - 币圈有风险，投资需谨慎。
+ - 币圈有风险，投资需谨慎。
+ - 币圈有风险，投资需谨慎。
 
