@@ -43,7 +43,7 @@
 ## 如何使用
 - 自己对接需要[tv会员](https://www.tradingview.com/gopro/?share_your_love=ea704) 和 [tvc会员](https://www.tvcbot.com/aff.php?aff=550)，或其他的自己搭建平台都可以，把下面的对接文档看完就懂了
 
-- [image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG569.jpeg?raw=true)
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG569.jpeg?raw=true)
 
 
 
