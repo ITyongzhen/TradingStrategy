@@ -26,7 +26,7 @@ eagle策略说明：
 仓位管理系数：这是影响每次交易仓位的关键因素之一。建议将其设为0.6以下。简单来说，值越大，当市场震荡较久时，磨损也越多，但行情好时赚取的利润也会更多。
 		- 策略开始日期：最好将其设置为实际交易开始的日期。由于开仓点位参考了历史盈亏，因此将该参数设置为开始实际交易的那天，相当于从那天起进行第一笔交易。
 
-[设置](https://github.com/ITyongzhen/image_eagle/blob/main/%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.jpg?raw=true)
+![image](https://github.com/ITyongzhen/image_eagle/blob/main/%E8%AE%BE%E7%BD%AE%E8%AF%B4%E6%98%8E.jpg?raw=true)
 
 - 所有策略的仓位管理都是基于参考止损金额来确定的。该参数是理论上的单次止损金额，实际上可能会大于或小于该值，因此更像是一个参考值。
 
