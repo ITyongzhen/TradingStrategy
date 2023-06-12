@@ -1,4 +1,3 @@
-eagle策略说明：
 
 ## 前言
 
@@ -44,9 +43,11 @@ eagle策略说明：
 ## 如何使用
 - 自己对接需要[tv会员](https://www.tradingview.com/gopro/?share_your_love=ea704) 和 [tvc会员](https://www.tvcbot.com/aff.php?aff=550)，或其他的自己搭建平台都可以
 
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG568.jpeg?raw=true)
+
 ## 如何定价
 
-- 价格不是一直不变的。目前价格为
+- 随着人数的变化，价格可能后期会调整。目前价格如下
 
 -  [自主调节版本](https://www.tradingview.com/script/RvwT64Nd-eth-30min-%E8%B6%8B%E5%8A%BF-%E8%87%AA%E4%B8%BB%E8%B0%83%E8%8A%82%E8%83%9C%E7%8E%87%E7%89%88%E6%9C%AC/)  180U/月
 - [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/)   200U/月
@@ -55,8 +56,11 @@ eagle策略说明：
 ## 其他
 - 如果自己本金太小。也想使用，可通过跟单模式
 - 币安的[traderwagon](https://www.traderwagon.com/zh-CN/register?ref=zogys9x )  ,在里面搜索eagle就可以看到了
--  [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
 
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)
+
+-  [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
+- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)
 
  - 币圈有风险，投资需谨慎。
  - 币圈有风险，投资需谨慎。
