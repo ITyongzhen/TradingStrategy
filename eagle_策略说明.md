@@ -41,7 +41,11 @@
 - 具体而言，通过调整参数参考止损金额、仓位管理系数和止盈百分比进行回测。一般建议回测时间为一到两年。然后观察最大回撤值。我推荐采取保守的做法。比如，如果您能够承受最多1000U的亏损，您可以通过调整参数，使得最近两年的最大回撤不超过500U，这样相对来说比较适合。需要注意的是，这仅仅是一种相对保守的建议，并且行情是无法预测的，过去的数据并不能代表未来。
 
 ## 如何使用
-- 自己对接需要[tv会员](https://www.tradingview.com/gopro/?share_your_love=ea704) 和 [tvc会员](https://www.tvcbot.com/aff.php?aff=550)，或其他的自己搭建平台都可以
+- 自己对接需要[tv会员](https://www.tradingview.com/gopro/?share_your_love=ea704) 和 [tvc会员](https://www.tvcbot.com/aff.php?aff=550)，或其他的自己搭建平台都可以，把下面的对接文档看完就懂了
+
+- [image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG569.jpeg?raw=true)
+
+
 
 - ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG568.jpeg?raw=true)
 
