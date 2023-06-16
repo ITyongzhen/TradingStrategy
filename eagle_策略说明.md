@@ -59,7 +59,7 @@
 - [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/)   现在200U/月 ，七月份之后 240U/月
 - [ETH 30-V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/)  现在策略220U/月， ，七月份之后 300U/月
 
-- 连续续费的老用户有3个月保护期，比如你6月20号续费是220U，7月份涨价到300U，但是你可以爱7，8，9三个月依然用220U续费
+- 连续续费的老用户有3个月保护期，比如你6月20号续费是220U，7月份涨价到300U，但是你依然可以在7，8，9三个月用220U续费
 
 
 ## 其他
