@@ -11,6 +11,7 @@
 - telegram: @eagle_012
 - wechat: eagle_01yz
 	- 无论是否订阅，都可加入微信群一起交流
+- 币coin实盘 点击用户搜索 eagle
 - 返佣链接  https://www.cnouyi.expert/join/41686764
 - 邀请码： 41686764
 - 1：路人，欧意返佣(自动返佣20%) ，
@@ -60,7 +61,7 @@
 
 -  [自主调节版本](https://www.tradingview.com/script/RvwT64Nd-eth-30min-%E8%B6%8B%E5%8A%BF-%E8%87%AA%E4%B8%BB%E8%B0%83%E8%8A%82%E8%83%9C%E7%8E%87%E7%89%88%E6%9C%AC/)  现在180U/月，七月份之后 200U/月
 - [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/)   现在200U/月 ，七月份之后 240U/月
-- [ETH 30-V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/)  现在策略220U/月， ，七月份之后 300U/月
+- [ETH 30-V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/)  现在策略220U/月 ，七月份之后 300U/月
 
 - 连续续费的老用户有3个月保护期，比如你6月20号续费是220U，7月份涨价到300U，但是你依然可以在7，8，9三个月用220U续费
 
@@ -72,18 +73,18 @@
 - ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)
 
 -  [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
-
+这个平台主要测试小币种，如果一段时候之后没问题，就去欧意币安带单
 
 - ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)
 
 
+- 欧意跟单，去欧意跟单搜索 eagle_01 就可以看到了
 
-
-  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
-  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
-  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
-  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
-  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ -  历史回测不代表未来，上个月的实盘也不代表下个月行情
+ -  历史回测不代表未来，上个月的实盘也不代表下个月行情
  - 币圈有风险，投资需谨慎。
  - 币圈有风险，投资需谨慎。
  - 币圈有风险，投资需谨慎。
