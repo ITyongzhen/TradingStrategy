@@ -72,13 +72,13 @@
 
 - 币安的[traderwagon](https://www.traderwagon.com/zh-CN/register?ref=zogys9x )  ,在里面搜索eagle就可以看到了
 
-- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)
+<!--- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)-->
 
 
 - [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
 这个平台主要测试小币种，如果一段时候之后没问题，就去欧意币安带单
 
-- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)
+<!--- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)-->
 
 
 
