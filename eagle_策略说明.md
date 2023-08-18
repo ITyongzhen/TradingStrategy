@@ -60,10 +60,12 @@
 - 随着人数的变化，价格可能后期会调整。目前价格如下
 
 -  [自主调节版本](https://www.tradingview.com/script/RvwT64Nd-eth-30min-%E8%B6%8B%E5%8A%BF-%E8%87%AA%E4%B8%BB%E8%B0%83%E8%8A%82%E8%83%9C%E7%8E%87%E7%89%88%E6%9C%AC/)   200U/月
-- [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/)   240U/月
-- [ETH 30-V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/)  300U/月
+- [ETH 30-V1版本]( https://www.tradingview.com/script/32fxHjtO-eth-30min-%E9%95%BF%E6%9C%9F%E7%A8%B3%E5%AE%9A%E7%AD%96%E7%95%A5/)   200U/月
+- [ETH 30-V2+V3]( https://www.tradingview.com/script/sJu0UBwc-eth-30min-V2-and-v3/)  200U/月
 
-- 连续续费的老用户有3个月保护期,保护期内不涨价
+- [分批止盈](https://www.tradingview.com/script/VBfCaesi-eth-30min-%E5%88%86%E6%89%B9%E6%AD%A2%E7%9B%88/) 200U/月
+
+
 
 
 ## 其他
