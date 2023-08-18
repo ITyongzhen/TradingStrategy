@@ -77,13 +77,6 @@
 <!--- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG566.jpeg?raw=true)-->
 
 
-- [bitGet跟单广场](https://www.bitgetapp.com/zh-CN/copytrading/futures/all) 搜索 eagle_01 就可以看到了
-这个平台主要测试小币种，如果一段时候之后没问题，就去欧意币安带单
-
-<!--- ![image](https://github.com/ITyongzhen/image_eagle/blob/main/WechatIMG567.jpeg?raw=true)-->
-
-
-
 
  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
  -  历史回测不代表未来，上个月的实盘也不代表下个月行情
